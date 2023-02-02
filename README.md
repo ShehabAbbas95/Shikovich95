@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Full-Stack Projects.
 - 📫 You can reach me through mail @ shehabeldeen.ab@gmail.com
-- LinkedIn Profile: https://www.linkedin.com/in/shehab-abbas-945109220
+- LinkedIn Profile: https://www.linkedin.com/in/shehab-abbas
 
 <!---
 Shikovich95/Shikovich95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
