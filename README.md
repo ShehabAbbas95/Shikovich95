@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Shehab @Shikovich95 
+- 👋 Hi, I’m Shehab @Shikovich95
+-  Currently I am working as a full stack developer @ Digital Innovation Lab
 - I graduated from Faculty Of Engineering Ain Shams University in 2019
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Full-Stack Projects.
-- 📫 You can reach me through mail @ shehabeldeen.ab@gmail.com
+- 📫 You can reach me through e-mail @ shehabeldeen.ab@gmail.com
 - LinkedIn Profile: https://www.linkedin.com/in/shehab-abbas
 
 <!---
